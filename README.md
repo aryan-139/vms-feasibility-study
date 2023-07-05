@@ -1,6 +1,6 @@
 # VMS Feasibility Report
 
-(This might show AI detected as I converted my Notion page to Markdown code, here's the original Notion copy: [https://destiny-latency-f6f.notion.site/VMS-feasibility-report-d2b4928183a04269a5411448bb1469ad?pvs=4])
+(I converted my Notion page to Markdown code, here's the original Notion copy: [https://destiny-latency-f6f.notion.site/VMS-feasibility-report-d2b4928183a04269a5411448bb1469ad?pvs=4])
 
 ## Introduction
 
